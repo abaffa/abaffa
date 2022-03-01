@@ -3,6 +3,8 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/abaffa?label=%40abaffa&style=social)](https://twitter.com/abaffa) 
 [![Youtube Channel](https://img.shields.io/youtube/channel/subscribers/UCVk0gZJsmzxJF630XLXjFIw?style=social)](https://www.youtube.com/c/AugustoBaffa/featured)
 [![Google Scholar](https://img.shields.io/badge/GScholar--blue.svg)](https://scholar.google.com/citations?user=uZYBxBYAAAAJ&hl=en)
+[![Hackaday.io](https://img.shields.io/badge/Hackaday.io--blue.svg)](https://hackaday.io/projects/hacker/1168159)
+
 
 My name is Augusto Baffa and I'm a Lecturer and Researcher at PUC-Rio University (Rio de Janeiro, Brazil).
 

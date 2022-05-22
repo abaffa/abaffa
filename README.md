@@ -13,8 +13,10 @@ My name is Augusto Baffa and I'm a Lecturer and Researcher at PUC-Rio University
 - 🔨 I’m currently studying and working on retro computing solutions. Why? It's old stuff but most of actual hardware have the same concepts. Also, it's easier to understand and manipulate and I grew up in the 80's when many of these computers and hardware available. 
 
 ### 💬 Last hardware projects:
+- [Baffa-6502 Homebrew MiniComputer](https://baffa-6502.baffasoft.com.br)
 - [Baffa-2 Homebrew MiniComputer](https://baffa-2.baffasoft.com.br)
 - [Baffa-1 Homebrew MiniComputer](https://baffa-1.baffasoft.com.br)
+- [ZX80 Emulator](https://zx80.baffasoft.com.br)
 
 
 <!--
